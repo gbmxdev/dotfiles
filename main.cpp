@@ -6,7 +6,7 @@
 using namespace std;
 int main ()
 {
-	unsigned int const key = 7;
+	unsigned int const key = NUMBER;
 	std::string buffer1, buffer2, buffer3;
 	cout << "Enter passphrase one:\n";
 	cin >> buffer1;
